@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
+
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeeunm&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlacodms70)](https://solved.ac/rlacodms70/)
+
+
 
 🔭SKILLS
 
