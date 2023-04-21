@@ -13,9 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeeunm&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlacodms70)](https://solved.ac/rlacodms70/)
+
+🔭SKILLS
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+
+
+
+📫Blog
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://develoyummer.tistory.com/)
+
 
