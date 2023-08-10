@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlacodms70)](https://solved.ac/rlacodms70/)
 <br>
 <br><br>
-🔭SKILLS
+
+### 📝 **Blog**
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logo=tistory&logoColor=white)](https://develoyummer.tistory.com/)
+
+<br>
+
+### 🖥️ **SKILLS**
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
@@ -39,8 +46,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-📫Blog
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://develoyummer.tistory.com/)
+
+
+
 
 
