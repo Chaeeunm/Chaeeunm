@@ -1,4 +1,4 @@
-# 🍅KIM CHAE EUN (●'◡'●) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+# 🍅KIM CHAE EUN (●'◡'●) <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeeunm&count_bg=%23575C54&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!--
 **Chaeeunm/Chaeeunm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
