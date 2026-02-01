@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
 
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeeunm&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlacodms70)](https://solved.ac/rlacodms70/)
 <br>
-<br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlacodms70)](https://solved.ac/rlacodms70/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeeunm&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ### 📝 **Blog**
 
